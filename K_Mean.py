@@ -2,7 +2,7 @@
 """
 Created on Fri Jan  6 20:39:55 2018
 
-@author: ````````````````````
+@author: Jin_F
 """
 from random import choice
 import numpy as np
